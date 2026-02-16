@@ -1,0 +1,6 @@
+Customer: Hi, my order is delayed.
+Agent: I’m really sorry for the inconvenience.
+Customer: When will it arrive?
+Agent: It should arrive within 2 days.
+Customer: Thank you.
+Agent: You're welcome. Have a great day!
